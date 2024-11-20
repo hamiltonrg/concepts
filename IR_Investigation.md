@@ -1,6 +1,6 @@
-# ideas
+#idea
 
-## idea:1
+##Title: IR investigation steps
 LLM workflow to help create investigation steps.  LLM doesn't have to be involved in the actual steps.
 
 ### Example:1
